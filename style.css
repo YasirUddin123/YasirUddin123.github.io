@@ -1,3 +1,18 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.name-header {
+  text-align: center;
+}
+
+.statement-header {
+  text-align: center;
+}
+
 body {
   background-color: #444444;
   color: #dddddd;
@@ -11,4 +26,9 @@ body {
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.1)
+}
+
+body {
+ background-image: url("https://media.istockphoto.com/illustrations/blue-abstract-dots-pattern-background-illustration-id1131858515?k=6&m=1131858515&s=612x612&w=0&h=DllIHZU1hvvXG63m-aKI_sFsIeMmQPNTY-z9s_DxA1E=");
+ background-color: #cccccc;
 }
